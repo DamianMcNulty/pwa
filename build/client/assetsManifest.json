@@ -1,0 +1,17 @@
+{
+  "landing": {
+    "js": "https://damianmcnulty-java.appspot.com/build/client/js/landing.7368da05.js",
+    "css": "https://damianmcnulty-java.appspot.com/build/client/css/landing.401365d7.css"
+  },
+  "vendor": {
+    "js": "https://damianmcnulty-java.appspot.com/build/client/js/vendor.6d4090eb.js",
+    "css": "https://damianmcnulty-java.appspot.com/build/client/css/vendor.8a31d4ba.css"
+  },
+  "main": {
+    "js": "https://damianmcnulty-java.appspot.com/build/client/js/main.1318787c.js",
+    "css": "https://damianmcnulty-java.appspot.com/build/client/css/main.7874d8c8.css"
+  },
+  "webpackManifest": {
+    "js": "https://damianmcnulty-java.appspot.com/build/client/js/webpackManifest.0c68c675.js"
+  }
+}
